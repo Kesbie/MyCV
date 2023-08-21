@@ -588,8 +588,12 @@ video {
   height: 1rem;
 }
 
-.h-\[500px\] {
-  height: 500px;
+.h-\[1500px\] {
+  height: 1500px;
+}
+
+.h-full {
+  height: 100%;
 }
 
 .h-screen {
